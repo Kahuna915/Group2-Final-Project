@@ -1,4 +1,4 @@
-### What we do first go to your firewall machine
+### What we do first go to your firewall machine:
     > Set the network adapters in vsphere to WAN & LAN, (if there is only one network adapter hit edit and add new device)
     > Turn the machine on - you then will be prompted with many choice    
         > Select option 2 and pick the WAN first
