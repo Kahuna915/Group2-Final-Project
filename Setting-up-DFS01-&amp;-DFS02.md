@@ -9,7 +9,7 @@
 >  Select the "Launch Web Console" button under the VM screen preview
 >  On the pop-up window, "Web Console" should be selected by default, but double-check and then select "OK"
 >  When the server core terminal loads, use the "Send Cntrl+Alt+Delete" button at the top right of the page to prompt login
->  The terminal will prompt you to change the password of the "Administrator" account and then confirm your password
+>  The terminal will prompt you to change the password of the "Administrator" account and the``````````n confirm your password
 >  Before starting the configuration of the server you need to disable Ipv4 autoconfiguration . . .
      >  Make sure you are in CMD or PowerShell
      >  Run the command "ipconfig /all" to get network configuration info
