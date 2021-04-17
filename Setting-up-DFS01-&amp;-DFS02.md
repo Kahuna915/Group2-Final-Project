@@ -31,3 +31,18 @@
      >  When prompted to "Enter new DNS server" put the IP address of the DNS server for your domain
      >  When Prompted to "Enter alternate DNS server" put the IP address of the secondary DNS server for your domain or 8.8.8.8 if you don't have one
      >  You should now be brought back to the "Main Menu" interface
+
+     >  Select "Domain/Workgroup" by typing "1" into the terminal
+     >  When prompted to "Join (D)omain or (W)orkgroup" select "d"
+     >  Enter the name of your domain(group2-final.local for this project)
+     >  When prompted to enter "an authorized domain\user" use a domain account with admin privileges
+     >  You will then be prompted for the password of the admin account that you used
+     >  You should now be brought back to the "Main Menu" interface
+
+     >  Select "Computer Name" by typing "2" into the terminal
+     >  Enter the new hostname for the server
+     >  A notification will pop up asking you to restart the server, select "yes"
+
+     >  When you log back into the server using the password that you created before, all of the settings should be complete
+     >  Run the command "ipconfig /all" again to check if the static IP you set has "(preferred)" and if the ipv4 autoconfiguration line says "no"
+     >  Run "sconfig" again to check if the domain and hostname were set properly
