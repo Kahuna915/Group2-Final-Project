@@ -15,7 +15,6 @@
      >  Run the command "ipconfig /all" to get network configuration info
      >  Run the command "netsh interface ipv4 show inter" to get the network interface index number
      >  Run the command "netsh interface ipv4 set interface x dadtransmits=0 store=persistent" where "x" is the network interface index number
-run the command "ipconfig /all" again to check if the static IP you set has "(preferred)" and if the ipv4 autoconfiguration line says "no"
 
 >  For the configuration process of the server, Once you are in the command prompt terminal . . .
      >  Use the "sconfig" command to open the server configuration interface
