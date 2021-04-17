@@ -1,4 +1,4 @@
->  Set the network adapter in Vsphere to the proper LAN by . . .
+ >  Set the network adapter in Vsphere to the proper LAN by . . .
      >  Selecting the DFS server in the "VM's and Templates" tab on the left-hand side of the Vsphere client interface
      >  Right-click on the DFS server
      >  Select "Edit settings"
