@@ -47,3 +47,4 @@
      - When you log back into the server using the password that you created before, all of the settings should be complete
      - Run the command "ipconfig /all" again to check if the static IP you set has "(preferred)" and if the ipv4 autoconfiguration line says "no"
      - Run "sconfig" again to check if the domain and hostname were set properly
+     - You might also want to ping external hosts as well as hosts on your domain using their hostname to verify the successful domain configuration
