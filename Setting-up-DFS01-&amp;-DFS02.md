@@ -1,4 +1,4 @@
-- Set the network adapter in Vsphere to the proper LAN by . . .
+### Set the network adapter in Vsphere to the proper LAN by . . .
      - Selecting the DFS server in the "VM's and Templates" tab on the left-hand side of the Vsphere client interface
      - Right-click on the DFS server
      - Select "Edit settings"
@@ -10,7 +10,8 @@
 - On the pop-up window, "Web Console" should be selected by default, but double-check and then select "OK"
 - When the server core terminal loads, use the "Send Cntrl+Alt+Delete" button at the top right of the page to prompt login
 - The terminal will prompt you to change the password of the "Administrator" account and then confirm your password
-- Before starting the configuration of the server you need to disable Ipv4 autoconfiguration . . .
+
+### Before starting the configuration of the server you need to disable Ipv4 autoconfiguration . . .
      - Make sure you are in CMD or PowerShell
      - Run the command "ipconfig /all" to get network configuration info
      - Run the command "netsh interface ipv4 show inter" to get the network interface index number
