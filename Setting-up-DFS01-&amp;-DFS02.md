@@ -23,7 +23,7 @@
      - Type the index number of the network interface you would like to configure(usually "1")
      - Select "1" again to "Set Network Adapter Address"
      - When prompted to select "DHCP(D) or Static IP(S)" select "s"
-     - Enter the static IP for the server
+     - Enter the static IP for the server(172.16.1.17, 172.16.1.18 for this project)
      - Enter the Subnet mask(usually 255.255.255.0)
      - Enter the default gateway
      - You should now be brought back to the "Network Settings" interface
