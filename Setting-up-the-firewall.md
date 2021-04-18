@@ -16,7 +16,7 @@
      - Select "Set interface(s) IP address" by selecting option "2"
      - When prompted to "Enter the number of the interface you wish to configure" select "1" to configure the WAN
      - When prompted to "Configure IPv4 via DHCP" select "n"
-     - Enter the static IP for the WAN interface of the firewall(172.16.1.2 for this project)
+     - Enter the static IP for the WAN interface of the firewall(10.0.17.11 for this project)
      - Enter the subnet prefix(24 for this project)
      - Enter the upstream gateway(10.0.17.2 for this project)
      - When prompted to "Configure IPv4 addresses with DHCPv6" select "n"
