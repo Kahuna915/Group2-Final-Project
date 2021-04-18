@@ -17,7 +17,7 @@
      - Run the command "netsh interface ipv4 show inter" to get the network interface index number
      - Run the command "netsh interface ipv4 set interface x dadtransmits=0 store=persistent" where "x" is the network interface index number
 
-- For the configuration process of the server, Once you are in the command prompt terminal . . .
+### For the configuration process of the server, Once you are in the command prompt terminal . . .
      - Use the "sconfig" command to open the server configuration interface
      - Select "Network Settings" by typing "8" into the terminal
      - Type the index number of the network interface you would like to configure(usually "1")
