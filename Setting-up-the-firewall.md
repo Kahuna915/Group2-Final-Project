@@ -33,7 +33,7 @@
      - When prompted to "Revert to HTTP" select "n"
 
 ### To finish the firewall set up . . .
-     - On a workstation, open a web browser
+     - Once you have configured a workstation on your domain, open a web browser on that work station
      - Navigate to the address of the firewall(https://172.16.1.2 for this project)
      - If a security alert pops up on the browser, select the advanced button and then proceed to the site of the address
      - Use the default username and password for pfsense to access the firewall services
