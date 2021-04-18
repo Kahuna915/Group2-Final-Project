@@ -16,21 +16,21 @@
      - Run the command "netsh interface ipv4 show inter" to get the network interface index number
      - Run the command "netsh interface ipv4 set interface x dadtransmits=0 store=persistent" where "x" is the network interface index number
 
->  For the configuration process of the server, Once you are in the command prompt terminal . . .
-     >  Use the "sconfig" command to open the server configuration interface
-     >  Select "Network Settings" by typing "8" into the terminal
-     >  Type the index number of the network interface you would like to configure(usually "1")
-     >  Select "1" again to "Set Network Adapter Address"
-     >  When prompted to select "DHCP(D) or Static IP(S)" select "s"
-     >  Enter the static IP for the server
-     >  Enter the Subnet mask(usually 255.255.255.0)
-     >  Enter the default gateway
-     >  You should now be brought back to the "Network Settings" interface
-     >  Select "4" to "Return to Main Menu"
-     >  Select "2" to "Set DNS Servers"
-     >  When prompted to "Enter new DNS server" put the IP address of the DNS server for your domain
-     >  When Prompted to "Enter alternate DNS server" put the IP address of the secondary DNS server for your domain or 8.8.8.8 if you don't have one
-     >  You should now be brought back to the "Main Menu" interface
+- For the configuration process of the server, Once you are in the command prompt terminal . . .
+     - Use the "sconfig" command to open the server configuration interface
+     - Select "Network Settings" by typing "8" into the terminal
+     - Type the index number of the network interface you would like to configure(usually "1")
+     - Select "1" again to "Set Network Adapter Address"
+     - When prompted to select "DHCP(D) or Static IP(S)" select "s"
+     - Enter the static IP for the server
+     - Enter the Subnet mask(usually 255.255.255.0)
+- Enter the default gateway
+     - You should now be brought back to the "Network Settings" interface
+     - Select "4" to "Return to Main Menu"
+     - Select "2" to "Set DNS Servers"
+     - When prompted to "Enter new DNS server" put the IP address of the DNS server for your domain
+     - When Prompted to "Enter alternate DNS server" put the IP address of the secondary DNS server for your domain or 8.8.8.8 if you don't have one
+     - You should now be brought back to the "Main Menu" interface
 
      >  Select "Domain/Workgroup" by typing "1" into the terminal
      >  When prompted to "Join (D)omain or (W)orkgroup" select "d"
