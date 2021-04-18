@@ -31,3 +31,14 @@
      - Skip the upstream gateway setup and the IPv6 address setup
      - When prompted to "Enable the DHCP server on LAN" select "n"
      - When prompted to "Revert to HTTP" select "n"
+
+### To finish the firewall set up . . .
+     - On a workstation, open a web browser
+     - Navigate to the address of the firewall(https://172.16.1.2 for this project)
+     - If a security alert pops up on the browser, select the advanced button and then proceed to the site of the address
+     - Use the default username and password for pfsense to access the firewall services
+     - Change the hostname of the firewall(fw01-group2-final for this project)
+     - Change the domain(group2-final.local)
+     - Change the primary DNS server to 8.8.8.8
+     - IMPORTANT: Make sure to uncheck the "block RFC1918 Private Networks" option
+     - Your firewall should be configured.  Test it by pinging google.com from a workstation
