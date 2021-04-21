@@ -27,5 +27,5 @@
      - Select "System"
      - In the "Computer name, domain, and workgroup settings" section, select "Change settings"
      - To change the hostname of the workstation, select the "Change..." button and change the "Computer name"(wks01-final and wks02-final for this project)
-     - To change the domain select the "Domain" option and insert the name of your domain
+     - To change the domain select the "Domain" option and insert the name of your domain(group2-final.local for this project)
      - To add a workstation to a domain, the active directory server needs to be configured and the domain needs to be set up
