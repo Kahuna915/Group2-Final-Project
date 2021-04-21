@@ -29,8 +29,8 @@
      - You should now be brought back to the "Network Settings" interface
      - Select "4" to "Return to Main Menu"
      - Select "2" to "Set DNS Servers"
-     - When prompted to "Enter new DNS server" put the IP address of the DNS server for your domain(172.16.1.14 for this project)
-     - When Prompted to "Enter alternate DNS server" put the IP address of the secondary DNS server for your domain or 8.8.8.8 if you don't have one
+     - When prompted to "Enter new DNS server" put the IP address of the DNS server for your domain(172.16.1.12 for this project)
+     - When Prompted to "Enter alternate DNS server" put the IP address of the secondary DNS server(172.16.1.13 for this project)
      - You should now be brought back to the "Main Menu" interface
 
      - Select "Domain/Workgroup" by typing "1" into the terminal
