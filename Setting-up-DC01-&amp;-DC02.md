@@ -42,3 +42,7 @@
      - Run the command "ipconfig /all" again to check if the static IP you set has the "(preferred)" identifier
      - Run "sconfig" again to check if the domain and hostname were set properly
      - You might also want to ping external hosts as well as hosts on your domain using their hostname to verify the successful domain configuration
+
+### To setup Active Directory . . .
+     - Make sure you are on the basic command line
+     - Open PowerShell by typing the command "powershell" into the terminal
