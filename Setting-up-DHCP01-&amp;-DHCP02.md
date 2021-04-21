@@ -25,7 +25,7 @@
      - Once you have configured the static IP navigate down to the bottom of the page to "<ok>" and hit enter
      - Navigate down to the bottom of the page to "<back>" and hit enter
      - Using the arrow keys, navigate to Set system hostname and hit ENTER
-     - Delete the default hostname and type your own
+     - Delete the default hostname and type your own(DHCP01-group2-final & DHCP02-group2-final for this project)
      - Then go to "<ok>" and hit ENTER
      - Hit ENTER again to confirm
      - Make sure to restart the server in order for the changes to be applied
