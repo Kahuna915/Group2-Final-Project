@@ -28,7 +28,9 @@
      - Delete the default hostname and type your own(DHCP01-group2-final & DHCP02-group2-final for this project)
      - Then go to "<ok>" and hit ENTER
      - Hit ENTER again to confirm
-     - Make sure to restart the server in order for the changes to be applied
+     - Make sure to run the command "systemctl restart network" or restart the server in order for the changes to be applied
+
+### To create a non-root user with root privileges . . .
      - Make sure you are logged in as a root user
      - Type the "useradd username" command into the terminal, but replace username with the username of the user you want to add
      - Type the "passwd username" command into the terminal, but replace username with the username of the user you just created
