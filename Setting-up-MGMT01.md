@@ -28,4 +28,4 @@
      - In the "Computer name, domain, and workgroup settings" section, select "Change settings"
      - To change the hostname of mgmt01, select the "Change..." button and change the "Computer name"(mgmt1-f-group2 for this project)
      - To change the domain select the "Domain" option and insert the name of your domain(group2-final.local for this project)
-     - To add mgmt01 to the domain, the active directory server needs to be configured and the domain needs to be set up
+     - Make sure to restart the system for the changes to be applied
