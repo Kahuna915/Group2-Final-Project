@@ -12,7 +12,7 @@
 - The terminal will prompt you to change the password of the "Administrator" account and then confirm your password
 
 ### Before starting the configuration of the server you need to disable Ipv4 autoconfiguration . . .
-     - IMPORTANT: This step may not be necessary.  If you are having problems setting a static IP, try this step!
+     - IMPORTANT: This step may not be necessary.  If you are having problems setting a static IP as the "PREFERRED" IP, try this step!
      - Make sure you are in CMD or PowerShell
      - Run the command "ipconfig /all" to get network configuration info
      - Run the command "netsh interface ipv4 show inter" to get the network interface index number
