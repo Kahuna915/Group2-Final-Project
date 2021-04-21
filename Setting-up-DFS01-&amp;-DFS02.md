@@ -25,11 +25,11 @@
      - When prompted to select "DHCP(D) or Static IP(S)" select "s"
      - Enter the static IP for the server(172.16.1.17, 172.16.1.18 for this project)
      - Enter the Subnet mask(usually 255.255.255.0)
-     - Enter the default gateway
+     - Enter the default gateway(172.16.1.2 for this project)
      - You should now be brought back to the "Network Settings" interface
      - Select "4" to "Return to Main Menu"
      - Select "2" to "Set DNS Servers"
-     - When prompted to "Enter new DNS server" put the IP address of the DNS server for your domain
+     - When prompted to "Enter new DNS server" put the IP address of the DNS server for your domain(172.16.1.14 for this project)
      - When Prompted to "Enter alternate DNS server" put the IP address of the secondary DNS server for your domain or 8.8.8.8 if you don't have one
      - You should now be brought back to the "Main Menu" interface
 
@@ -41,10 +41,10 @@
      - You should now be brought back to the "Main Menu" interface
 
      - Select "Computer Name" by typing "2" into the terminal
-     - Enter the new hostname for the server
+     - Enter the new hostname for the server(dfs1-group2-final and dfs2-group2-final for this project)
      - A notification will pop up asking you to restart the server, select "yes"
 
      - When you log back into the server using the password that you created before, all of the settings should be complete
-     - Run the command "ipconfig /all" again to check if the static IP you set has "(preferred)" and if the ipv4 autoconfiguration line says "no"
+     - Run the command "ipconfig /all" again to check if the static IP you set has the "(preferred)" identifier
      - Run "sconfig" again to check if the domain and hostname were set properly
      - You might also want to ping external hosts as well as hosts on your domain using their hostname to verify the successful domain configuration
