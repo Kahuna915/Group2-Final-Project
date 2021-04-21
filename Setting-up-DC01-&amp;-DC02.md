@@ -46,3 +46,5 @@
 ### To setup Active Directory . . .
      - Make sure you are on the basic command line
      - Open PowerShell by typing the command "powershell" into the terminal
+     - Once in the PowerShell terminal, run the command "Install-WindowsFeature AD-Domain-Services -IncludeManagementTools"
+     - After the completion of that command, run the command "Install-ADDSForest -DomainName group2-final.local"
