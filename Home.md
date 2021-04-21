@@ -1,10 +1,3 @@
 ### Welcome to the Group2-Final-Project wiki!
 * [[Routing the network]]
-     * [[Setting up the firewall]]
-     * [[Setting up the Workstations]]
-     * [[Setting up MGMT01]]
-     * [[Setting up DC01 & DC02]]
-     * [[Setting up DHCP01 & DHCP02]]
-     * [[Setting up MGMT02]]
-     * [[Setting up DFS01 & DFS02]]
-     * [[Setting up UTIL01]]
+* [[Service Configuration]]
