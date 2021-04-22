@@ -1,5 +1,5 @@
 ## [[Home]]
-### [[Networking and Configuration]]
+* [[Networking and Configuration]]
      * [[Setting up the firewall]]
      * [[Setting up the Workstations]]
      * [[Setting up MGMT01]]
