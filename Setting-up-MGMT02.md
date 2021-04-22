@@ -13,5 +13,4 @@
 ### For the configuration process of MGMT02 . . .
      - Edit the "/etc/netplan/00-installer-config.yaml" file, command: "nano /etc/netplan/00-installer-config.yaml" or "vi /etc/netplan/00-installer-config.yaml"
      - The file should look like . . .
-`network:
-   version: 2`
+![](https://drive.google.com/drive/u/2/folders/1WSfuBPs-ftTlsntFVXDaUl1saELUUoeA)
