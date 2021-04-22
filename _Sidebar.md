@@ -1,4 +1,4 @@
-* [[Home]]
+## * [[Home]]
 ***
 * [[Networking and Configuration]]
      * [[Setting up the firewall]]
