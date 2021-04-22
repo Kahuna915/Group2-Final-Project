@@ -7,6 +7,16 @@
      - DNS Server Tools
      - File Services Tools
 
+### Adding Workstations
+     - Domain join them by:
+          - In Powershell run Add-Computer -DomainName “group2-final.local” -restart
+          - Put in the credentials
+     - Or:
+          - Open Control panel go to system and security then to system
+          - Under computer name, domain and workgroup click change settings
+          - Under member of click domain type in your domain name and sign in to an admin account
+          - Then restart your computer (you can also change the computer's name from this section)
+
 ### Creating admin accounts and groups:
      - In server manager click on AD DS
      - Right-click on either Dc01 or Dc02
