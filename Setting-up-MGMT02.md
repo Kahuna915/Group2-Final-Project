@@ -14,6 +14,4 @@
      - Edit the "/etc/netplan/00-installer-config.yaml" file, command: "nano /etc/netplan/00-installer-config.yaml" or "vi /etc/netplan/00-installer-config.yaml"
      - The file should look like . . .
 `network:
-   version: 2`network:
-  version: 2
-
+   version: 2`
