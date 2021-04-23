@@ -1,6 +1,6 @@
 ### Set the network adapter in Vsphere to the proper LAN by . . .
-     - Selecting the DFS server in the "VM's and Templates" tab on the left-hand side of the Vsphere client interface
-     - Right-click on the DFS server
+     - Selecting the dc server in the "VM's and Templates" tab on the left-hand side of the Vsphere client interface
+     - Right-click on the server
      - Select "Edit settings"
      - Change the network adapter 1 entry to the proper LAN(SYS265-03-LAN-SYS265-03-2FINAL for this project) using the drop-down menu
      - Then exit out of the settings tab
