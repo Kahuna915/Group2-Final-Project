@@ -13,3 +13,4 @@
 # RVTM Test Plan
 |  requirement  |  Description  |  Test  |
 |  -----------  |  -----------  |  ----  |
+|  1. Redundant AD infrastructure  |
