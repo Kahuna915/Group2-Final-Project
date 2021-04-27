@@ -15,7 +15,7 @@
 # RVTM Test Plan
 |  requirement  |  Description  |  Test  |
 |  -----------  |  -----------  |  ----  |
-|  1. Redundant AD infrastructure  |  Redundant AD infrastructure using DC1 + DC2. One should be able to turn off DC1 or DC2, and still be able to manage AD and login via W1 + W2 + MGMT1.  |  |
+|  1. Redundant AD infrastructure  |  Redundant AD infrastructure using [DC1 + DC2](https://github.com/CameronAuler/Group2-Final-Project/wiki/Setting-up-DC01-%26amp%3B-DC02). One should be able to turn off DC1 or DC2, and still be able to manage AD and login via W1 + W2 + MGMT1.  |  |
 | 2. DHCP | DHCP1 and DHCP2 should provide DHCP services to your LAN. They should also be redundant. Turn off DHCP1 or 2 and ipconfig/release and /renew from W1. |  |
 | 3. Ansible Interactive | MGMT2 will be an Ansible controller system that can control your entire domain (including the firewall), with the exception of Windows workstations. You should be able to run interactive commands against all these systems. |  |
 | 4. Util and Ansible Deploy |  Util will be a system that you can provision with a new application via MGMT2 and Ansible. It can also be used to assist in meeting other requirements. Deploy an application that has not been covered in class to util using an Ansible playbook. |  |
