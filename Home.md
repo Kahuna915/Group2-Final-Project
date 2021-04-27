@@ -22,7 +22,7 @@
 | 4. Util and Ansible Deploy |  [Util](https://github.com/CameronAuler/Group2-Final-Project/wiki/Setting-up-UTIL01) will be a system that you can provision with a new application via MGMT2 and Ansible. It can also be used to assist in meeting other requirements. Deploy an application that has not been covered in class to util using an Ansible playbook. |  |
 | 5. AD Infrastructure | MGMT1, DC1, DC2, [DFS1, DFS2](https://github.com/CameronAuler/Group2-Final-Project/wiki/Setting-up-DFS01-%26amp%3B-DFS02) and your workstations represent your Active Directory Infrastructure. Your domain should be your groupname.local. Join all windows systems to the domain and at least one of your Linux systems. |  |
 | 6. Group Sudo | Create an AD security group called linux-admins. Members of this group should be able to sudo to root on one of your Linux systems (this has some implied sub-requirements). |  |
-| 7. Docker Wiki | Install docker and a wiki/application of your choice (Not WordPress!) on docker. |  |
+| 7. Docker Wiki | Install [docker and a wiki/application of your choice](https://github.com/CameronAuler/Group2-Final-Project/wiki/Docker) (Not WordPress!) on docker. |  |
 | 8. GPO Wallpaper | Create a Domain Group Policy that applies corporate wallpaper to W1 + W2 + MGMT1. |  |
 | 9. Domain Group Policy | Create a Domain Group Policy that allows W1 + W2 to remote desktop between one another. |  |
 | 10. Profiles and Shares on DFS | Create a Domain group policy that moves W1 and W2 user profiles and home directories to a DFS share. |  |
