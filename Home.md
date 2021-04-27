@@ -16,7 +16,7 @@
 |  requirement  |  Description  |  Test  |
 |  -----------  |  -----------  |  ----  |
 |  1. Redundant AD infrastructure  |  Redundant AD infrastructure using [DC1 + DC2](https://github.com/CameronAuler/Group2-Final-Project/wiki/Setting-up-DC01-%26amp%3B-DC02). One should be able to turn off DC1 or DC2, and still be able to manage AD and login via W1 + W2 + MGMT1.  |  |
-|  1a. Network Connectivity  | MGMT1, W1, W2, DC1, DC2, and all other systems on the network should have internet access both through IP and name resolution |  |
+|  1a. Network Connectivity  | MGMT1, W1, W2, DC1, DC2, and all other systems on the network should have internet access both through IP and name resolution. |  |
 | 2. DHCP | [DHCP1 and DHCP2](https://github.com/CameronAuler/Group2-Final-Project/wiki/Setting-up-DHCP01-%26amp%3B-DHCP02) should provide DHCP services to your LAN. They should also be redundant. Turn off DHCP1 or 2 and ipconfig/release and /renew from W1. |  |
 | 3. Ansible Interactive | [MGMT2](https://github.com/CameronAuler/Group2-Final-Project/wiki/Setting-up-MGMT02) will be an [Ansible](https://github.com/CameronAuler/Group2-Final-Project/wiki/Ansible) controller system that can control your entire domain (including the firewall), with the exception of Windows workstations. You should be able to run interactive commands against all these systems. |  |
 | 4. Util and Ansible Deploy |  [Util](https://github.com/CameronAuler/Group2-Final-Project/wiki/Setting-up-UTIL01) will be a system that you can provision with a new application via MGMT2 and Ansible. It can also be used to assist in meeting other requirements. Deploy an application that has not been covered in class to util using an Ansible playbook. |  |
