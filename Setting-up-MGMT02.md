@@ -15,4 +15,5 @@
      - The file should look like the image linked below
      - After configuring the file, edit the file "etc/hostname"(mgmt02-final for this project)
      - Run the command "sudo netplan apply" to apply all the configuration changes
-https://drive.google.com/file/d/1mNFF-Rs99lPn08oK4fKhLnjLrMB34Gcw/view?usp=sharing
+
+![](https://github.com/CameronAuler/Group2-Final-Project/blob/8213752b7ec061d8e90ec22365ce98c83903ad80/system-configuration/mgmt2/mgmt02.PNG)
