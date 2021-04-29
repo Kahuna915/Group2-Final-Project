@@ -12,8 +12,9 @@
 
 ### For the configuration process of MGMT02 . . .
      - Edit the "/etc/netplan/00-installer-config.yaml" file, command: "nano /etc/netplan/00-installer-config.yaml" or "vi /etc/netplan/00-installer-config.yaml"
-     - The file should look like the image linked below
+     - The file should look like the image below
      - After configuring the file, edit the file "etc/hostname"(mgmt02-final for this project)
      - Run the command "sudo netplan apply" to apply all the configuration changes
 
+### /etc/netplan/00-installer-config.yaml
 ![](https://github.com/CameronAuler/Group2-Final-Project/blob/8213752b7ec061d8e90ec22365ce98c83903ad80/system-configuration/mgmt2/mgmt02.PNG)
