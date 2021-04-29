@@ -20,3 +20,4 @@
 ***
 * [[Tests]]
      * [[Redundant AD Infrastructure]]
+     * [[Successful Network Connectivity]]
