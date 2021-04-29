@@ -1,4 +1,4 @@
-1. DC1 has been turned off
+### 1. DC1 has been turned off
 
 ![](https://github.com/CameronAuler/Group2-Final-Project/blob/ed7e3ee571fbd06bf6d20321f674f30198179bea/test-images/test-1/dc1%20turned%20off.PNG)
 
