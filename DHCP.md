@@ -3,5 +3,5 @@
     > Go to mgmt1
         > Now DHCP should show up...if not refresh
         > Now in active directory add in DHCP tools under features --> Remote Server admin tools
-        > Enter the new scope which is 172.16.5.100 to 172.16.5.150 and enter the dns and then promote the server. 
+        > Enter the new scope which is 172.16.1.100 to 172.16.1.150 and enter the dns and then promote the server. 
         > Run ipconfig /renew after setting everything to automatic
