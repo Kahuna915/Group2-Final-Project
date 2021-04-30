@@ -2,5 +2,5 @@
 ### Group 2 Members
      - John Tiseo
      - Asani Vessup
-     - Noah Styles
+     - Noah Stiles
      - Cameron Auler
