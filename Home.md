@@ -5,9 +5,6 @@
 ### Service Configuration Documentation
 * [[Service Configuration]]
 
-### Domain Policy!
-* [[Group Domain Policy]]
-
 ### Tests
 * [[Tests]]
 
