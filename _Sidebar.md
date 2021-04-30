@@ -19,8 +19,6 @@
      * [[Ansible]]
      * [[Group Domain Policy]]
 ***
-* [[Group Domain Policy]]
-***
 * [[Tests]]
      * [[Redundant AD Infrastructure]]
      * [[Successful Network Connectivity]]
