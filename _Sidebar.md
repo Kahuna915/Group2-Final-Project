@@ -18,6 +18,8 @@
      * [[Docker]]
      * [[Ansible]]
 ***
+* [[Group Domain Policy]]
+***
 * [[Tests]]
      * [[Redundant AD Infrastructure]]
      * [[Successful Network Connectivity]]
