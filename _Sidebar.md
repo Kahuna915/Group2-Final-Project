@@ -22,4 +22,5 @@
      * [[Redundant AD Infrastructure]]
      * [[Successful Network Connectivity]]
      * [[Redundant DHCP Services]]
+     * [[Universal Domain Wallpaper]]
      * [[DFS Group Policy]]
