@@ -1,4 +1,3 @@
-This is the DHCP configuration page!
     > On DHCP01 & DHCP02:
         > Run: Install-WindowsFeature DHCP -IncludeManagementTools
     > Go to mgmt1
