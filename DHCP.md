@@ -1,7 +1,10 @@
     > On DHCP01 & DHCP02:
-        > Run: Install-WindowsFeature DHCP -IncludeManagementTools
-    > Go to mgmt1
-        > Now DHCP should show up...if not refresh
-        > Now in active directory add in DHCP tools under features --> Remote Server admin tools
-        > Enter the new scope which is 172.16.1.100 to 172.16.1.150 and enter the dns and then promote the server. 
-        > Run ipconfig /renew after setting everything to automatic
+        > Run: yum install dhcp
+        > Then do a vi /etc/dhcp/dhcpd.conf
+
+![image](https://user-images.githubusercontent.com/62860262/116789069-1120e580-aa7b-11eb-9a92-7402a716f099.png)
+
+        > Run systemctl start dhcpd
+        > systemctl enable dhcpd
+        > firewall-cmd --add-service=dhcp --permanent
+        > firewall-cmd --reload
