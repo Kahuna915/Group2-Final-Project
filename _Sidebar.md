@@ -26,6 +26,6 @@
      * [[Universal Domain Wallpaper]]
      * [[RDP group policy]]
      * [[DFS Group Policy]]
-     * [[Ansible apt-package]]
+     * [[Install Apt Package]]
 ***
 * [[Demos]]
