@@ -15,3 +15,5 @@
      - After this go up to Forward lookup zones group2-final.local
      - In here right-click and hit add New AAA host
      - Type in all the Ip addresses and names assigned to you, this is the step where all of the hosts on your network are added to the DNS name server allowing you to identify the specific system by their hostname istead of their IP
+
+![](https://github.com/CameronAuler/Group2-Final-Project/blob/ddb380942c471034bb74ea653217b32aa0d0e444/system-configuration/mgmt2/dns.PNG)
