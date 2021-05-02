@@ -25,7 +25,7 @@
 | 8. GPO Wallpaper | Create a [Domain Group Policy](https://github.com/CameronAuler/Group2-Final-Project/wiki/Group-Domain-Policy) that applies corporate wallpaper to W1 + W2 + MGMT1. | [Universal Domain Wallpaper](https://github.com/CameronAuler/Group2-Final-Project/wiki/Universal-Domain-Wallpaper) |
 | 9. Domain Group Policy | Create a Domain Group Policy that allows W1 + W2 to remote desktop between one another. | [RDP group policy](https://github.com/CameronAuler/Group2-Final-Project/wiki/RDP-group-policy) |
 | 10. Profiles and Shares on DFS | Create a Domain group policy that moves W1 and W2 user profiles and home directories to a [DFS share](https://github.com/CameronAuler/Group2-Final-Project/wiki/DFS). | [DFS Group Policy](https://github.com/CameronAuler/Group2-Final-Project/wiki/DFS-Group-Policy) |
-| 11. apt | Use Ansible to install an apt-package. |  |
+| 11. apt | Use Ansible to install an apt-package. | [Install apt package](https://github.com/CameronAuler/Group2-Final-Project/wiki/Install-apt-package)  |
 | 12. yum | Use Ansible to install a yum package. |  |
 | 13. Linux Local | Use Ansible to add a new Linux local user can be an SSH user or one with a password. |  |
 | 14. Domain User | Use Ansible to add a new Windows domain user. |  |
