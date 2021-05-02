@@ -27,5 +27,6 @@
      * [[RDP group policy]]
      * [[DFS Group Policy]]
      * [[Install Apt Package]]
+     * [[Install Yum Package]]
 ***
 * [[Demos]]
