@@ -30,6 +30,10 @@
      - Hit ENTER again to confirm
      - Make sure to run the command "systemctl restart network" or restart the server in order for the changes to be applied
 
+![](https://github.com/CameronAuler/Group2-Final-Project/blob/2890aff826e32c77dd64a0d043109e2476ec0ce2/system-configuration/mgmt2/util%20nmtui%20net%20config.PNG)
+
+![](https://github.com/CameronAuler/Group2-Final-Project/blob/2890aff826e32c77dd64a0d043109e2476ec0ce2/system-configuration/mgmt2/util%20nmtui%20hostname.PNG)
+
 ### To create a non-root user with root privileges . . .
      - Make sure you are logged in as a root user
      - Type the "useradd username" command into the terminal, but replace username with the username of the user you want to add
