@@ -24,4 +24,5 @@
      * [[Successful Network Connectivity]]
      * [[Redundant DHCP Services]]
      * [[Universal Domain Wallpaper]]
+     * [[RDP group policy]]
      * [[DFS Group Policy]]
