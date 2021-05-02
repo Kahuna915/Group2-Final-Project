@@ -34,6 +34,8 @@
      - When Prompted to "Enter alternate DNS server" put the IP address of the secondary DNS server(172.16.1.13 for this project)
      - You should now be brought back to the "Main Menu" interface
 
+![](https://github.com/CameronAuler/Group2-Final-Project/blob/2890aff826e32c77dd64a0d043109e2476ec0ce2/system-configuration/mgmt2/dfs%20sconfig%20net.PNG)
+
      - Select "Domain/Workgroup" by typing "1" into the terminal
      - When prompted to "Join (D)omain or (W)orkgroup" select "d"
      - Enter the name of your domain(group2-final.local for this project)
@@ -44,6 +46,8 @@
      - Select "Computer Name" by typing "2" into the terminal
      - Enter the new hostname for the server(dfs1-group2-final and dfs2-group2-final for this project)
      - A notification will pop up asking you to restart the server, select "yes"
+
+![](https://github.com/CameronAuler/Group2-Final-Project/blob/2890aff826e32c77dd64a0d043109e2476ec0ce2/system-configuration/mgmt2/dfs%20sconfig%20main.PNG)
 
      - When you log back into the server using the password that you created before, all of the settings should be complete
      - Run the command "ipconfig /all" again to check if the static IP you set has the "(preferred)" identifier
