@@ -1,6 +1,6 @@
 Make sure playbook is configured:
 
-![](file:///C:/Users/avess/Pictures/apt.PNG)
+![](https://imgur.com/a/2Idx91t)
 
 Run command to install the apt package to your remote machines(playbook_apt1.yml is used as an example) and enter become password:
 
