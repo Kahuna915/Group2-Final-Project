@@ -5,10 +5,6 @@
 ### Service Configuration Documentation
 * [[Service Configuration]]
 
-### Tests
-* [[Tests]]
-
-
 # RVTM Test Plan
 |  requirement  |  Description  |  Test  |
 |  -----------  |  -----------  |  ----  |
