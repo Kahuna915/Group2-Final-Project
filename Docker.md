@@ -13,3 +13,10 @@
      - Use the command "su - ${USER}" to apply the group membership
      - Confirm the group membership addition using the command "id -nG"
      - You can also add a user to the docker group by using the command "sudo usermod -aG docker _username_" and replacing _username_ with the username of the user you want to add to the docker group
+
+### Configuring the Docker Compose Service
+     - Enter the command "sudo curl -L "https://github.com/docker/compose/releases/download/1.27.4/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose"
+     - Use the command "sudo chmod +x /usr/local/bin/docker-compose" make the docker command executable
+     - Verify the docker-compose installation using the command "docker-compose --version"
+
+![](https://github.com/CameronAuler/Group2-Final-Project/blob/d05030f66ca534c543346fba2da46129404ce094/system-configuration/mgmt2/docker%20version.PNG)
