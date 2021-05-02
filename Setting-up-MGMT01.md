@@ -29,3 +29,5 @@
      - To change the hostname of mgmt01, select the "Change..." button and change the "Computer name"(mgmt1-f-group2 for this project)
      - To change the domain select the "Domain" option and insert the name of your domain(group2-final.local for this project)
      - Make sure to restart the system for the changes to be applied
+
+![](https://github.com/CameronAuler/Group2-Final-Project/blob/2890aff826e32c77dd64a0d043109e2476ec0ce2/system-configuration/mgmt2/mgmt1.PNG)
