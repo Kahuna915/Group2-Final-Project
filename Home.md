@@ -27,6 +27,6 @@
 | 10. Profiles and Shares on DFS | Create a Domain group policy that moves W1 and W2 user profiles and home directories to a [DFS share](https://github.com/CameronAuler/Group2-Final-Project/wiki/DFS). | [DFS Group Policy](https://github.com/CameronAuler/Group2-Final-Project/wiki/DFS-Group-Policy) |
 | 11. apt | Use Ansible to install an apt-package. | [Install apt Package](https://github.com/CameronAuler/Group2-Final-Project/wiki/Install-apt-package)  |
 | 12. yum | Use Ansible to install a yum package. | [Install Yum Package](https://github.com/CameronAuler/Group2-Final-Project/wiki/Install-yum-package) |
-| 13. Linux Local | Use Ansible to add a new Linux local user can be an SSH user or one with a password. | [Create User Using Ansible] (https://github.com/CameronAuler/Group2-Final-Project/wiki/Create-User-Using-Ansible)
+| 13. Linux Local | Use Ansible to add a new Linux local user can be an SSH user or one with a password. | [Create User Using Ansible](https://github.com/CameronAuler/Group2-Final-Project/wiki/Create-User-Using-Ansible)
 |
 | 14. Domain User | Use Ansible to add a new Windows domain user. |  |
