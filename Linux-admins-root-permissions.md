@@ -1,11 +1,16 @@
 ### First:
+    > Go to active directory,
+    > Create a new OU named groups
+    > In this OU create a group named Linux admins, add the members you want in, and then add it to domain admins
+    > Your group has been created!  
+### Second:
     > You need to make sure that you go to cd /etc/sudoers.d
     > Here you can make a file or in our case there already is one made from Ansible called final
     > In your file make it look like:
 
 ![image](https://user-images.githubusercontent.com/62860262/116824244-31be6d80-ab57-11eb-8008-4ccf37cda6c0.png)
  
-### Second:
+### Third:
     > Make sure to have restarted the network on the machine you made file adjustments
     > Go to a workstation and ssh like shown below:
 
