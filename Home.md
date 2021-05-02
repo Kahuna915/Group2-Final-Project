@@ -1,4 +1,7 @@
 # Welcome to the Group2-Final-Project wiki!
+
+![image](https://user-images.githubusercontent.com/62860262/116823894-2c602380-ab55-11eb-824d-9f25e64a5008.png)
+
 ### Basic Configuration Documentation
 * [[Networking and Configuration]]
 
