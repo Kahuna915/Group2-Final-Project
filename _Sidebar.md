@@ -18,6 +18,7 @@
      * [[Docker]]
      * [[Ansible]]
      * [[Group Domain Policy]]
+     * [[Create User Using Ansible]]
 ***
 * [[Tests]]
      * [[Redundant AD Infrastructure]]
