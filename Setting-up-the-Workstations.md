@@ -30,4 +30,5 @@
      - To change the domain select the "Domain" option and insert the name of your domain(group2-final.local for this project)
      - Make sure to restart the system for the changes to be applied
 
+The screenshot below shows the windows machine set up with DHCP services.  Follow the steps above and configure a static IP until your DHCP servers are configured.
 ![](https://github.com/CameronAuler/Group2-Final-Project/blob/2890aff826e32c77dd64a0d043109e2476ec0ce2/system-configuration/mgmt2/workstations.PNG)
