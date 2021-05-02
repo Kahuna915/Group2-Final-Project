@@ -32,6 +32,8 @@
      - When prompted to "Enable the DHCP server on LAN" select "n"
      - When prompted to "Revert to HTTP" select "n"
 
+![](https://github.com/CameronAuler/Group2-Final-Project/blob/2890aff826e32c77dd64a0d043109e2476ec0ce2/system-configuration/mgmt2/fw%20interface.PNG)
+
 ### To finish the firewall set up . . .
      - Once you have configured a workstation on your domain, open a web browser on that work station
      - Navigate to the address of the firewall(https://172.16.1.2 for this project)
@@ -42,3 +44,5 @@
      - Change the primary DNS server to 8.8.8.8
      - IMPORTANT: Make sure to uncheck the "block RFC1918 Private Networks" option
      - Your firewall should be configured.  Test it by pinging google.com from a workstation
+
+![](https://github.com/CameronAuler/Group2-Final-Project/blob/2890aff826e32c77dd64a0d043109e2476ec0ce2/system-configuration/mgmt2/pfsense.PNG)
