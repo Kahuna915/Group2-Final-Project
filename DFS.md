@@ -12,3 +12,5 @@
      - Go to the DFS management console on mgmt1
 
 ![](https://github.com/CameronAuler/Group2-Final-Project/blob/369c1c39869cfc76d4e854609f2a6e43666acf9f/system-configuration/mgmt2/dfs%20manange.PNG)
+
+     - From DFS management, namespaces can be created, shares can be created and all other features of DFS can be added, changed, or deleted.
