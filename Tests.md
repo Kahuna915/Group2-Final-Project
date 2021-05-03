@@ -11,6 +11,6 @@
 * [[RDP group policy]]
 * [[DFS group policy]]
 * [[Ansible apt-package]]
-* [[Ansible yum package]]
+* [[Install Yum Package]]
 * [[Local linux user]]
 * [[Ansible Windows domain user]]
