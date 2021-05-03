@@ -12,5 +12,5 @@
 * [[DFS group policy]]
 * [[Ansible apt-package]]
 * [[Install Yum Package]]
-* [[Local linux user]]
-* [[Ansible Windows domain user]]
+* [[Create User Using Ansible]]
+
