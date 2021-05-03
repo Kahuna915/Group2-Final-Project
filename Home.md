@@ -28,4 +28,4 @@
 | 11. apt | Use Ansible to install an apt-package. | [Install apt-package](https://github.com/CameronAuler/Group2-Final-Project/wiki/Install-Apt-Package)  |
 | 12. yum | Use Ansible to install a yum package. | [Install Yum Package](https://github.com/CameronAuler/Group2-Final-Project/wiki/Install-yum-package) |
 | 13. Linux Local | Use Ansible to add a new Linux local user can be an SSH user or one with a password. | [Create User Using Ansible](https://github.com/CameronAuler/Group2-Final-Project/wiki/Create-User-Using-Ansible)
-|| 14. Domain User | Use Ansible to add a new Windows domain user. |  |
+| 14.  |  Domain User | Use Ansible to add a new Windows domain user. |  |
