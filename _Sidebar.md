@@ -24,6 +24,7 @@
      * [[Redundant AD Infrastructure]]
      * [[Successful Network Connectivity]]
      * [[Redundant DHCP Services]]
+     * [[Using Ansible to Interact with Remote Systems]]
      * [[Universal Domain Wallpaper]]
      * [[RDP group policy]]
      * [[DFS Group Policy]]
