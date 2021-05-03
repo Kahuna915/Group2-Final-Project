@@ -6,7 +6,7 @@
 * [[Deploy application using Ansible to Util]]
 * [[AD domain structure set up]]
 * [[Linux admins root permissions]]
-* [[Docker wiki/application]]
+* [[Docker]]
 * [[Universal domain wallpaper]]
 * [[RDP group policy]]
 * [[DFS group policy]]
