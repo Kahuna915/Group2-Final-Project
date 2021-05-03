@@ -3,7 +3,7 @@
 * [[Successful Network Connectivity]]
 * [[Redundant DHCP Services]]
 * [[Using Ansible to Interact with Remote Systems]]
-* [[Successfully deployed Ansible application]]
+* [[Deploy application using Ansible to Util]]
 * [[AD domain structure set up]]
 * [[Linux admins root permissions]]
 * [[Docker wiki/application]]
